@@ -1,0 +1,84 @@
+[versions]
+agp = "8.3.1"
+kotlin = "1.9.0"
+coreKtx = "1.12.0"
+junit = "4.13.2"
+junitVersion = "1.1.5"
+espressoCore = "3.5.1"
+appcompat = "1.6.1"
+material = "1.11.0"
+activity = "1.8.0"
+constraintlayout = "2.1.4"
+lottie = "3.6.0"
+glide = "4.12.0"
+retrofit = "2.9.0"
+converterGson = "2.9.0"
+loggingInterceptor = "4.11.0"
+lifecycleRuntimeKtx = "2.7.0"
+lifecycleViewModelKtx = "2.7.0"
+lifecycleLivedataKtx = "2.7.0"
+coroutinesCore = "1.7.3"
+coroutinesAndroid = "1.7.3"
+datastore = "1.0.0"
+room = "2.5.2"
+ksp = "1.9.0-1.0.13"
+swiperefreshlayout = "1.1.0"
+googleAndroidLibrariesMapsplatformSecretsGradlePlugin = "2.0.1"
+playServicesMaps = "18.2.0"
+playServicesLocation = "21.0.1"
+paging = "3.2.0"
+roomPaging = "2.5.2"
+coreTesting = "2.1.0"
+coroutinesTest = "1.6.1"
+mockitoCore = "3.12.4"
+mockitoInline = "3.12.4"
+androidxTestExtJunit = "1.1.5"
+mockwebserver = "4.9.3"
+okhttpTls = "4.9.3"
+espressoIdlingResource = "3.5.1"
+
+[libraries]
+androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+androidx-activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+androidx-constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+lottie = { group = "com.airbnb.android", name = "lottie", version.ref = "lottie" }
+glide = { group = "com.github.bumptech.glide", name = "glide", version.ref = "glide" }
+glideCompiler = { group = "com.github.bumptech.glide", name = "compiler", version.ref = "glide" }
+retrofit = { group = "com.squareup.retrofit2", name = "retrofit", version.ref = "retrofit" }
+converterGson = { group = "com.squareup.retrofit2", name = "converter-gson", version.ref = "converterGson" }
+loggingInterceptor = { group = "com.squareup.okhttp3", name = "logging-interceptor", version.ref = "loggingInterceptor" }
+lifecycleRuntimeKtx = { group = "androidx.lifecycle", name = "lifecycle-runtime-ktx", version.ref = "lifecycleRuntimeKtx" }
+lifecycleViewModelKtx = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-ktx", version.ref = "lifecycleViewModelKtx" }
+lifecycleLivedataKtx = { group = "androidx.lifecycle", name = "lifecycle-livedata-ktx", version.ref = "lifecycleLivedataKtx" }
+coroutinesCore = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-core", version.ref = "coroutinesCore" }
+coroutinesAndroid = { group = "org.jetbrains.kotlinx", name = "kotlinx-coroutines-android", version.ref = "coroutinesAndroid" }
+datastorePreferences = { module = "androidx.datastore:datastore-preferences", version.ref = "datastore" }
+roomKtx = { module = "androidx.room:room-ktx", version.ref = "room" }
+roomRuntime = { module = "androidx.room:room-runtime", version.ref = "room" }
+roomCompiler = { module = "androidx.room:room-compiler", version.ref = "room" }
+swiperefreshlayout = { module = "androidx.swiperefreshlayout:swiperefreshlayout", version.ref = "swiperefreshlayout" }
+play-services-maps = { group = "com.google.android.gms", name = "play-services-maps", version.ref = "playServicesMaps" }
+playServicesLocation = { group = "com.google.android.gms", name = "play-services-location", version.ref = "playServicesLocation" }
+pagingRuntimeKtx = { module = "androidx.paging:paging-runtime-ktx", version.ref = "paging" }
+pagingCommonKtx = { module = "androidx.paging:paging-common-ktx", version.ref = "paging" }
+roomPaging = { module = "androidx.room:room-paging", version.ref = "roomPaging" }
+coreTesting = { module = "androidx.arch.core:core-testing", version.ref = "coreTesting" }
+coroutinesTest = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-test", version.ref = "coroutinesTest" }
+mockitoCore = { module = "org.mockito:mockito-core", version.ref = "mockitoCore" }
+mockitoInline = { module = "org.mockito:mockito-inline", version.ref = "mockitoInline" }
+androidxTestExtJunit = { group = "androidx.test.ext", name = "junit", version.ref = "androidxTestExtJunit" }
+mockwebserver = { group = "com.squareup.okhttp3", name = "mockwebserver", version.ref = "mockwebserver" }
+okhttpTls = { group = "com.squareup.okhttp3", name = "okhttp-tls", version.ref = "okhttpTls" }
+espressoIdlingResource = { group = "androidx.test.espresso", name = "espresso-idling-resource", version.ref = "espressoIdlingResource" }
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+jetbrainsKotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+parcelize = { id = "org.jetbrains.kotlin.plugin.parcelize", version.ref = "kotlin" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+googleAndroidLibrariesMapsplatformSecretsGradlePlugin = { id = "com.google.android.libraries.mapsplatform.secrets-gradle-plugin", version.ref = "googleAndroidLibrariesMapsplatformSecretsGradlePlugin" }

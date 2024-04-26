@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Story</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+
+    <string name="skip_this"><![CDATA[Lewati >]]></string>
+    <string name="start_now">Mulai sekarang</string>
+    <string name="title_1">Unggah ceritamu</string>
+    <string name="desc_1">Kamu dapat mengunggah gambar dari cerita dan pengalamanmu di MyStory</string>
+    <string name="title_2">Unggah gambar</string>
+    <string name="desc_2">Bagikan pengalaman menarikmu</string>
+    <string name="title_3">Berikan motivasi</string>
+    <string name="desc_3">Berikan inspirasi ke orang lain</string>
+    <string name="title_4">Dengarkan cerita orang lain</string>
+    <string name="desc_4">Dapatkan inspirasi dari pengalaman orang lain juga</string>
+    <string name="share_your_story">Bagikan Ceritamu</string>
+    <string name="create_your_account">Buat akun</string>
+    <string name="welcome">Selamat datang</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account">Sudah punya akun?</string>
+    <string name="pass_less_than_8_char">Password tidak boleh kurang dari 8 huruf</string>
+    <string name="invalid_email">Email tidak sesuai</string>
+    <string name="welcome_back">Selamat datang kembali</string>
+    <string name="don_t_have_an_account">Belum punya akun?</string>
+    <string name="success">Berhasil</string>
+    <string name="error">Gagal</string>
+    <string name="continue_dialog">Lanjutkan</string>
+    <string name="password">Password</string>
+    <string name="input_email">Emailmu belum terisi</string>
+    <string name="input_password">Passwordmu belum terisi</string>
+    <string name="log_out">Keluar</string>
+    <string name="logout">Keluar</string>
+    <string name="are_your_sure">Yakin nih?</string>
+    <string name="time">10 April 2024</string>
+    <string name="description">Deskripsi\n</string>
+    <string name="created_at">Dibuat pada: %1$s</string>
+    <string name="upload">Unggah</string>
+    <string name="add_desc">Tambah deskripsi</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="english">Inggris</string>
+    <string name="indo">Indonesia</string>
+    <string name="switch_language">Bahasa telah diubah</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="retry">Ulangi</string>
+    <string name="add_location">Tambah lokasi</string>
+</resources>

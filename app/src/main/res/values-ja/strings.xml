@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">私の物語</string>
+    <string name="login">ログイン</string>
+    <string name="register">登録する</string>
+
+    <string name="skip_this"><![CDATA[これをスキップ >]]></string>
+    <string name="start_now">今すぐ始めましょう</string>
+    <string name="title_1">ストーリーをアップロードする</string>
+    <string name="desc_1">MyStory にストーリーや体験の写真をアップロードできます</string>
+    <string name="title_2">画像をアップロードする</string>
+    <string name="desc_2">あなたの興味深い経験を共有してください</string>
+    <string name="title_3">モチベーションを与える</string>
+    <string name="desc_3">他の人にインスピレーションを与える</string>
+    <string name="title_4">他の人の話を聞く</string>
+    <string name="desc_4">他の人の経験からもインスピレーションを受ける</string>
+    <string name="share_your_story">あなたのストーリーを共有してください</string>
+    <string name="create_your_account">アカウントを作成</string>
+    <string name="welcome">いらっしゃいませ</string>
+    <string name="name">名前</string>
+    <string name="email">Eメール</string>
+    <string name="already_have_an_account">すでにアカウントをお持ちですか？</string>
+    <string name="pass_less_than_8_char">パスワードは8文字以上にする必要があります</string>
+    <string name="invalid_email">メールが一致しません</string>
+    <string name="welcome_back">おかえり</string>
+    <string name="don_t_have_an_account">アカウントをお持ちでない場合は、</string>
+    <string name="success">成功</string>
+    <string name="error">エラー</string>
+    <string name="continue_dialog">続く</string>
+    <string name="password">パスワード</string>
+    <string name="input_email">メールアドレスが入力されていません</string>
+    <string name="input_password">パスワードが入力されていません</string>
+    <string name="log_out">ログアウト</string>
+    <string name="logout">ログアウト</string>
+    <string name="are_your_sure">本気ですか？</string>
+    <string name="time">2024 年 4 月 10 日</string>
+    <string name="description">説明\n</string>
+    <string name="created_at">作成日: %1$s</string>
+    <string name="upload">アップロード</string>
+    <string name="add_desc">説明を追加</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="camera">カメラ</string>
+    <string name="english">英語</string>
+    <string name="indo">インドネシア語</string>
+    <string name="switch_language">言語が切り替わりました</string>
+    <string name="title_activity_maps">地図アクティビティ</string>
+    <string name="retry">リトライ</string>
+    <string name="add_location">場所を追加</string>
+
+</resources>

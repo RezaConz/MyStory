@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">My Story</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+    <string name="skip_this"><![CDATA[Skip This >]]></string>
+    <string name="start_now">Start now</string>
+    <string name="title_1">Upload your story</string>
+    <string name="desc_1">You can upload pictures of your stories and experiences on MyStory</string>
+    <string name="title_2">Upload an image</string>
+    <string name="desc_2">Share your interesting experience</string>
+    <string name="title_3">Provide motivation</string>
+    <string name="desc_3">Inspire others</string>
+    <string name="title_4">Listen to other people\'s stories</string>
+    <string name="desc_4">Get inspired by other people\'s experiences too</string>
+    <string name="share_your_story">Share your story</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="pass_less_than_8_char">Password must not be less than 8 characters</string>
+    <string name="invalid_email">Email does not match</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+    <string name="continue_dialog">Continue</string>
+    <string name="password">Password</string>
+    <string name="input_email">Your email has not been filled in</string>
+    <string name="input_password">Your password has not been filled in</string>
+    <string name="log_out">Logout</string>
+    <string name="logout">Log out</string>
+    <string name="are_your_sure">Are you sure?</string>
+    <string name="time">10 April 2024</string>
+    <string name="description">Description\n</string>
+    <string name="created_at">Created At: %1$s</string>
+    <string name="upload">Upload</string>
+    <string name="add_desc">Add Description</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="english">English</string>
+    <string name="indo">Indonesian</string>
+    <string name="switch_language">The language has been switched</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="retry">Retry</string>
+    <string name="add_location">Add Location</string>
+
+</resources>
